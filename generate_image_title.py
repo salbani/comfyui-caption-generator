@@ -24,7 +24,7 @@ class GenerateImageTitle:
     RETURN_TYPES = ("STRING",)
     FUNCTION = "generate_title"
 
-    CATEGORY = "Utility"
+    CATEGORY = "Simons Nodes"
 
     def generate_title(
         self,
